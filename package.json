@@ -1,5 +1,5 @@
 {
-    "index" : "index.html"
+    "main" : "index.html",
     "title": "New Age",
     "name": "startbootstrap-new-age",
     "version": "5.0.0",
