@@ -1,1 +1,1 @@
-web: vendor/bin/lazydoctor public/
+web: vendor/autoload public/
