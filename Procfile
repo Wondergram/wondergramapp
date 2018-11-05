@@ -1,1 +1,1 @@
-web : instagram.php
+web : instagram
