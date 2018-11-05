@@ -1,1 +1,1 @@
-web: vendor/autoload public/
+web: vendor/autoload.php public/
