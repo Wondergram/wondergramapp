@@ -1,1 +1,1 @@
-web: vendor/autoload.php public/ > Procfile
+web: vendor/autoload
